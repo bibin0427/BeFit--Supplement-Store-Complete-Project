@@ -33,6 +33,8 @@
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="wrap-login100">
+				<div class="login100-more" style="background-image: url({% static 'images/bg-login2.jpg' %});">
+				</div>
 				<form method="POST" action="{% url 'adminlogin' %}" class="login100-form validate-form">
 					{% csrf_token %}
 					<span class="login100-form-title p-b-43">

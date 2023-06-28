@@ -13,5 +13,8 @@ urlpatterns = [
     path('userlogout/', views.userlogout, name="userlogout"),
     path('contactsave/', views.contactsave, name="contactsave"),
     path('displaycontact/', views.displaycontact, name="displaycontact"),
+    path('Addtocart/<int:dataid>', views.Addtocart, name="Addtocart"),
+    path('CheckOut/', views.CheckOut, name="CheckOut"),
+    path('Checkoutsave/', views.Checkoutsave, name="Checkoutsave"),
 
 ]
