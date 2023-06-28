@@ -62,6 +62,17 @@ This full-stack website built with Django 4.1.3, Python 3.10.5. Then the IDE is 
 ## Product Single Page
 ![Login Page](https://github.com/bibin0427/BeFit-Supplement-Store-Final-Project/blob/main/frntend%20prduct%20single.png?raw=true)
 
+## Product Shopping Cart
+![Login Page](https://github.com/bibin0427/BeFit--Supplement-Store-Complete-Project/blob/master/screenshots/Shopping%20Cart.png?raw=true)
+
+![Login Page](https://github.com/bibin0427/BeFit--Supplement-Store-Complete-Project/blob/master/screenshots/Billing%20Page.png?raw=true)
+
+![Login Page](https://github.com/bibin0427/BeFit--Supplement-Store-Complete-Project/blob/master/screenshots/Order%20Placed.png?raw=true)
+
+
+
+
+
 
 ## 🚀 Contact
 If you want to contact me, you can reach me through below handles.
